@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "375167677450",
+    "firebase_url": "https://newbe-71065.firebaseio.com",
+    "project_id": "newbe-71065",
+    "storage_bucket": "newbe-71065.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375167677450:android:43bb4b0ca4666f674e1bf3",
+        "android_client_info": {
+          "package_name": "com.newbe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "375167677450-e2g40aqcod29hijqrjnc1rd7hf68p20j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApQ4DKdRNAONY68SMIIxL3uxejJiozE3c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "375167677450-e2g40aqcod29hijqrjnc1rd7hf68p20j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
